@@ -57,7 +57,7 @@ const schools = [
     id: 4,
     name: "SMA Negeri 4 Palu",
     area: "Palu Barat",
-    coordinates: [-0.8756, 119.8678],
+    coordinates: [-0.8891763571887631, 119.84735654175726],
     address: "Jl. Mokolembake No.10, Lere, Kec. Palu Barat",
     students: 1125,
     image: "/images/schools/sman4-palu.jpg",
@@ -73,6 +73,7 @@ const schools = [
     image: "/images/schools/smkn1-palu.jpg",
     description: "Sekolah menengah kejuruan dengan berbagai program keahlian",
   },
+  
 ]
 
 const evacuationPoints = [
